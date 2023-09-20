@@ -1,0 +1,12 @@
+.box{
+    background-color: aqua;
+}
+.square{
+   
+    height: 100px;
+    width: 100px;
+    border:1px solid black;display: inline-block;
+    margin-right: 20px;
+    margin-top: 2px;
+  
+}

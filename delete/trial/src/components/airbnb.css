@@ -1,0 +1,26 @@
+
+.air{
+    background-color: white;
+    margin-left: 40px;
+    width: 66%;
+    margin-bottom: 2rem;
+    
+}
+.airHeader {
+    color: rgb(234, 14, 14);
+    padding:1rem 3rem;
+}
+/* .airimage{
+width:100%;
+} */
+.aironline{
+    padding:0 25%;
+}
+.airabout{
+    padding: 0 25%
+}
+.cardi{
+    margin:4rem 1rem;
+    background-color: aquamarine;
+    width: 2Opx;
+}

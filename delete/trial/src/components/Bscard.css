@@ -1,0 +1,8 @@
+.card{
+    padding: 0px 600px;
+    background-color: #21222A;
+    align-items: center;
+    display: flex;
+    flex-direction:column;
+    margin:0 2w50px ;
+}

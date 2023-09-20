@@ -1,0 +1,19 @@
+h1{
+    color:black;
+    cursor:pointer;
+}
+.jokes{
+    display:flex;
+   
+    flex-direction: column;
+    background-color: blue;
+    width:170px;
+   position: relative;
+   flex:0 0 auto;
+   
+    margin-right: 2rem;
+}
+
+.jokesbadge{
+    position: absolute;
+}

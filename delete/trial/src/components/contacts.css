@@ -1,0 +1,19 @@
+.contactsimage{
+width: 65%;
+margin:3rem;
+}
+.contacts{
+    background-color: antiquewhite;
+    width:22%;
+    position: relative;
+    
+}
+.contacts h3{
+    margin: 0 3rem;
+}
+.infogroup p{
+    margin: 1remw 3rem;
+}
+.contactsbadge{
+    position: absolute;
+}
